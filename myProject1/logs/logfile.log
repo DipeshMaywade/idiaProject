@@ -1,0 +1,10 @@
+INFO  | 2021-02-05 21:41:40 | [main] example.App (App.java:17) - Hello Worldinfo
+WARN  | 2021-02-05 21:41:40 | [main] example.App (App.java:18) - Hello WorldWarn
+ERROR | 2021-02-05 21:41:40 | [main] example.App (App.java:19) - Hello Worlderror
+FATAL | 2021-02-05 21:41:40 | [main] example.App (App.java:20) - Hello WorldFatal
+INFO  | 2021-02-05 21:41:40 | [main] example.App (App.java:21) - Append string : Hello World.
+INFO  | 2021-02-05 21:45:16 | [main] example.App (App.java:17) - Hello Worldinfo
+WARN  | 2021-02-05 21:45:16 | [main] example.App (App.java:18) - Hello WorldWarn
+ERROR | 2021-02-05 21:45:16 | [main] example.App (App.java:19) - Hello Worlderror
+FATAL | 2021-02-05 21:45:16 | [main] example.App (App.java:20) - Hello WorldFatal
+INFO  | 2021-02-05 21:45:16 | [main] example.App (App.java:21) - Append string : Hello World.

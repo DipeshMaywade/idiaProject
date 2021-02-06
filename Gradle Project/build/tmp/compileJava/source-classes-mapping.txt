@@ -1,0 +1,2 @@
+com/practicegradle/Hello.java
+ com.practicegradle.Hello
